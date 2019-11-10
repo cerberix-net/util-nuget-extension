@@ -3,19 +3,19 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <RuntimeIdentifiers>win7-x64</RuntimeIdentifiers>
-    <Authors>pacjman@cerberix.net</Authors>
+    <Authors>hai@cerberix.net</Authors>
     <Company>cerberix.net</Company>
     <Description>core extension module for dot net standard</Description>
     <RepositoryUrl>https://github.com/cerberix-net/util-nuget-extension/</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <Version>1.0.0</Version>
+    <Version>1.1.0</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageLicenseUrl>https://github.com/cerberix-net/util-nuget-extension/blob/master/LICENSE</PackageLicenseUrl>
     <PackageIconUrl>https://raw.githubusercontent.com/cerberix-net/util-nuget-extension/master/img/cerberix.png</PackageIconUrl>
-    <PackageId>Cerberix.Extension.Core</PackageId>
-    <Product>Cerberix.Extension.Core</Product>
+    <PackageId>Cerberix.Extension</PackageId>
+    <Product>Cerberix.Extension</Product>
     <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
   </PropertyGroup>
 

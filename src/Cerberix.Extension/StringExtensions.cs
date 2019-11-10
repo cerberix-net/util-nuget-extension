@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Text.RegularExpressions;
 
-namespace Cerberix.Extension.Core
+namespace Cerberix.Extension
 {
 	/// <summary>
 	///		Extensions for use with strings

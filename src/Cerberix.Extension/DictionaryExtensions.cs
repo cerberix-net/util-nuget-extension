@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Cerberix.Extension.Core
+namespace Cerberix.Extension
 {
 	/// <summary>
 	///		Extensions for use with dictionarys

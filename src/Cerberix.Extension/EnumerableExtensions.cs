@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Cerberix.Extension.Core
+namespace Cerberix.Extension
 {
     /// <summary>
     ///		Extensions for use with enumerations

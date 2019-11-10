@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Cerberix.Extension.Core
+namespace Cerberix.Extension
 {
 	/// <summary>
 	///		Common extensions for DateTime objects
